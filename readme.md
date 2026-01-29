@@ -20,5 +20,9 @@ Now you have to load this extension locally to chrome. So then you can see your 
 - go to `chrome://extensions` page first
 - enable `developer mode`
 - lastly click `load unpacked` and select the directory.
+  <img width="1919" height="915" alt="extensionUnload" src="https://github.com/user-attachments/assets/c78da411-5ce4-4ff7-90a7-4af65321089b" />
+
 
 > > First Half has completed.
+<img width="495" height="478" alt="firstExtensionPoppedUp" src="https://github.com/user-attachments/assets/9e7cb5c6-3e2f-4e70-976c-b4c21a9b4036" />
+
