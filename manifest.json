@@ -1,6 +1,6 @@
 {
-    "name": "hello-world extensions",
-    "description": "creating hello-world pop up extension",
+    "name": "sumanta hello-world extensions",
+    "description": " hello-world pop up extension",
     "version": "1.0",
     "manifest_version": 3,
     "action": {
