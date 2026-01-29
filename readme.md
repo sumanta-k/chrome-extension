@@ -26,3 +26,10 @@ Now you have to load this extension locally to chrome. So then you can see your 
 > > First Half has completed.
 <img width="495" height="478" alt="firstExtensionPoppedUp" src="https://github.com/user-attachments/assets/9e7cb5c6-3e2f-4e70-976c-b4c21a9b4036" />
 
+Have to reload the extension, depends on what you have changed.
+For ex: you've changed it's name and file's content , then you've to reload it.
+
+---
+<img width="596" height="412" alt="errorTab" src="https://github.com/user-attachments/assets/5504cd61-2058-4507-8690-c23973e3070a" />
+
+
