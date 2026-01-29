@@ -20,3 +20,5 @@ Now you have to load this extension locally to chrome. So then you can see your 
 - go to `chrome://extensions` page first
 - enable `developer mode`
 - lastly click `load unpacked` and select the directory.
+
+> > First Half has completed.
