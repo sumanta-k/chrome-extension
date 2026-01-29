@@ -1,10 +1,10 @@
 {
     "name": "hello-world extensions",
-    "description": "creating hello-world pop up extension"
+    "description": "creating hello-world pop up extension",
     "version": "1.0",
     "manifest_version": 3,
-    "action":{
-	"default_popup": "hello.html",
-	"default_icon": "hello-extensions.png"
-     }
+    "action": {
+        "default_popup": "hello.html",
+        "default_icon": "hello-extensions.png"
+    }
 }
