@@ -8,4 +8,3 @@ const imageData = context.getImageData(0, 0, 16, 16);
 chrome.action.setIcon({ imageData: imageData }, () => {
     /* ... */
 });
-
