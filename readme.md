@@ -32,4 +32,7 @@ For ex: you've changed it's name and file's content , then you've to reload it.
 ---
 <img width="596" height="412" alt="errorTab" src="https://github.com/user-attachments/assets/5504cd61-2058-4507-8690-c23973e3070a" />
 
+### chrome API
+- `chrome.action.setIcon`: it helps to set icon/logo of extension.
+
 
