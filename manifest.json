@@ -5,7 +5,10 @@
     "manifest_version": 3,
     "action": {
         "default_popup": "hello.html",
-        "default_icon": "images/glowing-space.png",
+        "default_icon": {
+            "24": "images/glowing-space.png",
+            "16": "images/hello-extensions.png"
+        },
         "default_title": "Click Me!"
     }
 }
